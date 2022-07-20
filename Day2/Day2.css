@@ -1,0 +1,57 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Myself{
+    background-color:#e89715;
+    color:rgb(16, 49, 49);
+    width:200px;
+    box-shadow: 10px 10px 5px rgb(43, 25, 25);
+    border-width: 2px;
+    Margin:20px;
+    text-align: center;
+    padding:30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #282f8f;
+    transition: margin-right 2s ease-in-out;
+}
+#Myself:hover{
+    background-color:#32a8a2;
+}
+#Hobbies{
+    background-color:#d6450c;
+    color:rgb(1, 2, 2);
+    width:200px;
+    box-shadow: 10px 10px 5px rgb(15, 9, 9);
+    border-width: 2px;
+    Margin:20px;
+    text-align: center;
+    padding:30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #050730;
+    transition: margin-right 2s ease-in-out;
+
+}
+#Hobbies:hover{
+    background-color:#32a8a2;
+}
+#Futureplans{
+    background-color:#e7116a;
+    color:rgba(0, 0, 0, 0.822);
+    width:200px;
+    box-shadow: 10px 10px 5px rgb(56, 56, 56);
+    border-width: 2px;
+    Margin:20px;
+    text-align: center;
+    padding:30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #181a42;
+    transition: margin-right 2s ease-in-out;
+
+}
+#Futureplans:hover{
+    background-color:#32a8a2;
+}
